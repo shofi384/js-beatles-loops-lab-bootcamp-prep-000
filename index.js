@@ -13,3 +13,10 @@ function johnLennonFacts(facts) {
   }
   return facts
 }
+
+function iLoveTheBeatles(n) {
+  var empty = new Object();
+  do {
+    empty.push('')
+  }
+}
